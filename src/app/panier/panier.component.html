@@ -1,0 +1,26 @@
+<app-header></app-header>
+@for(c of panier; track $index){
+<div >
+  <p><strong>ID Client :</strong> {{ c.id }}</p>
+  <p><strong> Nom :</strong> {{ c.nom }}</p>
+
+
+  <div >
+    <h4>Produits :</h4>
+    @for(p of c.products; track $index){
+
+    <div >
+      <div class="card mb-3">
+        <div class="card-body">
+          <p><strong>Nom :</strong> {{ p.name }}</p>
+          <p><strong>Description :</strong> {{ p.description }}</p>
+        </div>
+      </div>
+    </div>
+}
+  </div>
+
+  <hr />
+</div>}
+
+<app-footer></app-footer>

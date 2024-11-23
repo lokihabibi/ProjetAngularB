@@ -1,0 +1,23 @@
+{
+  "client": [
+    
+    {
+      "id": 101,
+      "nom": "John",
+      "prenom": "Doe",
+      "mdp": "",
+      "nomUtilisateur": "",
+      "products": {
+        "id": 1,
+        "name": "Stone Bracelet",
+        "description": "A beautiful bracelet with natural stones.",
+        "price": 2000,
+        "sectionName": "Bracelets",
+        "material": "Amethyst",
+        "availability": true,
+        "weight": "25g",
+        "commentaire": []
+      }
+    }
+  ]
+}

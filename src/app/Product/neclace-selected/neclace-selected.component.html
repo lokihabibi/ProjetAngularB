@@ -1,0 +1,62 @@
+<app-header></app-header>
+<div class="container mt-4">
+  @for (el of productId; track $index) {
+    @if (el.id == identifiant) {
+      <div class="product-card p-4 rounded shadow-lg">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="image-container">
+              <img [src]="el.Images[0]" class="img-fluid product-image" alt="{{ el.name }}">
+            </div>
+          </div>
+
+          <div class="col-md-6">
+            <h2 class="product-title">{{ el.name }}</h2>
+            <p class="product-desc"><strong>Description :</strong> {{ el.description }}</p>
+            <p><strong>Référence :</strong> {{ el.reference }}</p>
+            <p><strong>Prix :</strong> {{ el.price | dinar}}</p>
+            <p><strong>Poids :</strong> {{ el.weight }}</p>
+            <p><strong>Dimensions :</strong> {{ el.dimensions }}</p>
+            <p><strong>Matériau :</strong> {{ el.material }}</p>
+            <p><strong>Disponibilité :</strong> {{ el.availability ? 'Disponible' : 'Indisponible' }}</p>
+            <p><strong>Section :</strong> {{ el.sectionName }}</p>
+
+           
+            <div class="mb-3">
+              <strong>Couleurs disponibles :</strong>
+              <div class="d-flex">
+                @for (color of el.colors; track $index) {
+                  <button class="btn color-circle" [style.background-color]="color" [title]="color"></button>
+                }
+              </div>
+            </div>
+
+            
+            <button class="btn btn-dark btn-lg mt-3 ajout" (onclick)="ajouterAuPanier(el)" >Ajouter au panier</button>
+          </div>
+        </div>
+
+        
+        @if (el.commentaire.length > 0) {
+          <div class="comments-section mt-4 p-3">
+            <h5>Commentaires :</h5>
+            @for (com of el.commentaire; track $index) {
+              <div class="comment-card p-2 mb-3">
+                <strong>{{ com.author }}</strong> {{ com.date }}
+                <div class="d-flex align-items-center">
+                  <span class="text-warning">
+                    @for (i of [].constructor(com.rating); track $index) {
+                      <i class="fa fa-star"></i>
+                    }
+                  </span>
+                  <span class="text-muted ms-2">- {{ com.text }}</span>
+                </div>
+              </div>
+            }
+          </div>
+        }
+      </div>
+    }
+  }
+</div>
+<app-footer></app-footer>

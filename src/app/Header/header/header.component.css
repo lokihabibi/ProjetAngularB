@@ -1,0 +1,12 @@
+a:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(213, 98, 98);
+}
+.actif{
+    font-size: 150%;
+    color: rgb(213, 98, 98) ;
+}
+.pp{
+    cursor: pointer;
+    color: pink;
+}

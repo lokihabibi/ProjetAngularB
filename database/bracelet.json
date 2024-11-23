@@ -1,0 +1,452 @@
+[
+  {
+  "id": 6012,
+  "reference": "REF028",
+  "name": "Stone Bracelet",
+  "description": "The Stone Bracelet is a beautiful and versatile accessory that combines the natural beauty of semi-precious stones with a simple yet stylish design. Featuring a collection of carefully selected stones such as amethyst, turquoise, jade, or agate, each piece is unique, showcasing its natural color and texture. The stones are often strung on a durable elastic cord or fine metal chain, making it easy to wear and comfortable on the wrist. Ideal for adding a touch of color and energy to any outfit, the Stone Bracelet can be worn on its own for a minimalist look or stacked with other bracelets for a layered effect. This bracelet is perfect for both casual and formal occasions, offering a natural, earthy charm.",
+  "price": 1800,
+  "sectionName": "Bracelets",
+  "material": "Amethyst, Turquoise, Jade, Agate, Elastic Cord, Metal",
+  "availability": "In Stock",
+  "weight": "25g",
+  "dimensions": "18x18x1 cm",
+  "colors": ["Purple", "Turquoise", "Green", "Multi-color"],
+  "Images":["https:\/\/ouchi.tn\/6012-medium_default\/bracelet-\u00e0-main.jpg","https:\/\/ouchi.tn\/6012-large_default\/bracelet-\u00e0-main.jpg"],
+  "commentaire": [
+    {
+      "author": "Lily",
+      "text": "I absolutely love this bracelet! The stones are so vibrant, and I love how natural and unique each piece feels.",
+      "rating": 5
+    },
+    {
+      "author": "Amelia",
+      "text": "This bracelet is a lovely addition to my collection. It's simple yet elegant, and the colors are so soothing. Perfect for everyday wear.",
+      "rating": 4
+    }
+  ]
+},
+{
+  "id": 6050,
+  "reference": "REF029",
+  "name": "Flower Bracelet",
+  "description": "The Flower Bracelet is a delicate and feminine accessory, perfect for adding a touch of nature-inspired beauty to any outfit. Designed with intricately crafted flower motifs, this bracelet features small, elegant blooms that are often embellished with sparkling gemstones or enamel to highlight their details. Made from high-quality materials like sterling silver, gold, or rose gold, the Flower Bracelet combines refinement with a playful, floral charm. Whether worn for a casual day out or a special evening event, this bracelet is a perfect choice for those who want to embrace a fresh, nature-inspired aesthetic.",
+  "price": 3500,
+  "sectionName": "Bracelets",
+  "material": "Sterling Silver, Gold, Rose Gold, Gemstones, Enamel",
+  "availability": "In Stock",
+  "weight": "40g",
+  "dimensions": "18x18x0.5 cm",
+  "colors": ["Silver", "Gold", "Rose Gold", "Multi-color"],
+  "Images": ["https:\/\/ouchi.tn\/6050-medium_default\/bracelet-\u00e0-main-fleur.jpg","https:\/\/ouchi.tn\/6050-large_default\/bracelet-\u00e0-main-fleur.jpg"],
+  "commentaire": [
+    {
+      "author": "Emma",
+      "text": "This bracelet is absolutely gorgeous! The flower design is so delicate, and the colors really pop. It adds a lovely touch to any outfit.",
+      "rating": 5
+    },
+    {
+      "author": "Olivia",
+      "text": "I love how feminine and elegant this bracelet is. The flowers are beautifully crafted, and it’s the perfect accessory for spring and summer.",
+      "rating": 4
+    }
+  ]
+},
+{
+  "id": 6074,
+  "reference": "REF030",
+  "name": "Stone Bracelet",
+  "description": "The Stone Bracelet is a beautiful and earthy accessory that features an array of semi-precious stones, each carefully chosen for its unique color, texture, and energy. Stones such as amethyst, turquoise, lapis lazuli, and rose quartz are commonly used, creating a visually stunning and harmonizing design. The bracelet can be crafted with elastic cord for a comfortable fit or on a fine metal chain for a more refined look. The natural qualities of the stones are believed to promote healing, balance, and positive energy, making this bracelet not only a fashionable accessory but also a meaningful one. Perfect for both casual and elegant occasions, the Stone Bracelet can be worn alone or stacked with other bracelets for a personalized touch.",
+  "price": 2200,
+  "sectionName": "Bracelets",
+  "material": "Amethyst, Turquoise, Rose Quartz, Lapis Lazuli, Elastic Cord, Metal",
+  "availability": "In Stock",
+  "weight": "30g",
+  "dimensions": "19x19x1 cm",
+  "colors": ["Purple", "Turquoise", "Pink", "Blue"],
+  "Images": ["https:\/\/ouchi.tn\/6074-medium_default\/bracelet-\u00e0-main.jpg","https:\/\/ouchi.tn\/6074-large_default\/bracelet-\u00e0-main.jpg"],
+  "commentaire": [
+    {
+      "author": "Isabella",
+      "text": "I love this bracelet! The stones are so beautiful and have such a calming energy. It’s a great piece to wear every day.",
+      "rating": 5
+    },
+    {
+      "author": "Mia",
+      "text": "This bracelet is stunning! The stones are vibrant, and I love the healing properties they bring. It’s a lovely and meaningful accessory.",
+      "rating": 5
+    }
+  ]
+},
+{
+  "id": 6126,
+  "reference": "REF031",
+  "name": "Elissa Bracelet",
+  "description": "The Elissa Bracelet is an elegant and timeless piece that combines delicate craftsmanship with luxurious materials. Featuring a sleek, minimalistic design, this bracelet is adorned with fine crystals or gemstones set into a polished metal band. Available in a variety of metals, such as sterling silver, gold, or rose gold, the Elissa Bracelet exudes sophistication and versatility. It is perfect for both everyday wear and special occasions, adding a subtle touch of sparkle and refinement to any outfit. Whether worn alone for a minimalist look or layered with other bracelets, the Elissa Bracelet is a perfect accessory for anyone who appreciates understated elegance.",
+  "price": 5500,
+  "sectionName": "Bracelets",
+  "material": "Sterling Silver, Gold, Rose Gold, Crystals, Gemstones",
+  "availability": "In Stock",
+  "weight": "30g",
+  "dimensions": "18x18x0.5 cm",
+  "colors": ["Silver", "Gold", "Rose Gold", "Clear"],
+  "Images": [ "https:\/\/ouchi.tn\/6126-medium_default\/bracelet-elissa-.jpg", "https:\/\/ouchi.tn\/6126-large_default\/bracelet-elissa-.jpg"],
+  "commentaire": [
+    {
+      "author": "Sophia",
+      "text": "The Elissa Bracelet is a stunning piece! It's delicate yet elegant, and the crystals catch the light beautifully. I love wearing it with everything.",
+      "rating": 5
+    },
+    {
+      "author": "Ava",
+      "text": "This bracelet is the perfect balance of simplicity and luxury. The design is sleek and the quality is exceptional. It’s my new favorite piece.",
+      "rating": 5
+    }
+  ]
+},
+{
+  "id": 7619,
+  "reference": "REF032",
+  "name": "Butterfly Bracelet",
+  "description": "The Butterfly Bracelet is a whimsical and elegant piece that celebrates the beauty of nature. Featuring a delicate butterfly charm, this bracelet is designed to capture the light and movement, creating an enchanting look on the wrist. Crafted from high-quality materials such as sterling silver, gold, or rose gold, the butterfly is often adorned with intricate detailing, enamel, or sparkling gemstones to highlight its delicate wings. Perfect for adding a touch of femininity and grace to any outfit, the Butterfly Bracelet is ideal for casual days or special occasions. Its symbol of transformation and freedom makes it a meaningful gift or a personal statement of beauty and elegance.",
+  "price": 4500,
+  "sectionName": "Bracelets",
+  "material": "Sterling Silver, Gold, Rose Gold, Enamel, Gemstones",
+  "availability": "In Stock",
+  "weight": "35g",
+  "dimensions": "18x18x0.7 cm",
+  "colors": ["Silver", "Gold", "Rose Gold", "Multi-color"],
+  "Images":["https:\/\/ouchi.tn\/7619-medium_default\/bracelet-papillon.jpg","https:\/\/ouchi.tn\/7619-large_default\/bracelet-papillon.jpg"],
+  "commentaire": [
+    {
+      "author": "Charlotte",
+      "text": "I absolutely adore this bracelet! The butterfly charm is so cute, and the colors are beautiful. It’s a perfect everyday piece that adds a little sparkle.",
+      "rating": 5
+    },
+    {
+      "author": "Olivia",
+      "text": "The butterfly design is so elegant and charming. I love how it catches the light and adds a touch of magic to my wrist. It’s become one of my favorite accessories.",
+      "rating": 5
+    }
+  ]
+},
+
+{
+    "id": 6061,
+    "reference": "REF033",
+    "name": "Stone Bracelet",
+    "description": "The Stone Bracelet is a stunning piece that combines the natural beauty of semi-precious stones with a simple, yet stylish design. Featuring a selection of stones like amethyst, rose quartz, turquoise, and jade, this bracelet is not only eye-catching but also carries the unique energy of each stone. The bracelet is typically strung on an elastic band or fine metal chain, ensuring a comfortable fit for all wrist sizes. The rich colors and textures of the stones create a harmonious look, making this bracelet ideal for both casual and formal occasions. Whether worn on its own or stacked with other bracelets, the Stone Bracelet adds an earthy, bohemian vibe to any outfit.",
+    "price": 3000,
+    "sectionName": "Bracelets",
+    "material": "Amethyst, Rose Quartz, Turquoise, Jade, Elastic Band, Metal",
+    "availability": "In Stock",
+    "weight": "40g",
+    "dimensions": "19x19x1 cm",
+    "colors": ["Purple", "Pink", "Turquoise", "Green"],
+    "Images":["https:\/\/ouchi.tn\/6061-medium_default\/bracelet-\u00e0-main-shiny-belt.jpg","https:\/\/ouchi.tn\/6061-large_default\/bracelet-\u00e0-main-shiny-belt.jpg"],
+    "commentaire": [
+      {
+        "author": "Emma",
+        "text": "I absolutely love this bracelet! The colors of the stones are so vibrant, and it feels great on my wrist. It’s the perfect accessory for everyday wear.",
+        "rating": 5
+      },
+      {
+        "author": "Sophia",
+        "text": "This bracelet is beautiful and calming. The stones are high quality and the design is simple yet elegant. I wear it all the time.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 6151,
+    "reference": "REF034",
+    "name": "Snake Cuff Bracelet",
+    "description": "The Snake Cuff Bracelet is a bold and captivating piece that takes inspiration from the allure of the serpent. Featuring a sleek, curved design that wraps around the wrist, the bracelet mimics the form of a snake, with its head and tail elegantly meeting at the front. Crafted from high-quality metals such as sterling silver, gold, or bronze, the bracelet may also feature textured scales or be adorned with gemstones for added luxury. The Snake Cuff Bracelet is a striking accessory that symbolizes transformation, renewal, and protection, making it a perfect statement piece for those who appreciate edgy, symbolic jewelry. Ideal for both casual and formal events, this bracelet stands out and makes a statement on its own or paired with other accessories.",
+    "price": 7000,
+    "sectionName": "Bracelets",
+    "material": "Sterling Silver, Gold, Bronze, Gemstones",
+    "availability": "In Stock",
+    "weight": "50g",
+    "dimensions": "18x18x1 cm",
+    "colors": ["Silver", "Gold", "Bronze", "Multi-color"],
+    "Images":["https:\/\/ouchi.tn\/6151-medium_default\/bracelet-manchette-serpent.jpg", "https:\/\/ouchi.tn\/6151-large_default\/bracelet-manchette-serpent.jpg"],
+    "commentaire": [
+      {
+        "author": "Isabella",
+        "text": "This bracelet is so unique and bold! The snake design is stunning, and the quality is excellent. I love wearing it as a statement piece.",
+        "rating": 5
+      },
+      {
+        "author": "Luna",
+        "text": "I adore this cuff bracelet! The serpent design is beautifully crafted, and the bracelet fits perfectly. It’s a powerful and stylish accessory.",
+        "rating": 5
+      }
+    ]
+  },
+
+  {
+  "id": 6154,
+  "reference": "REF035",
+  "name": "Gourmette Bracelet",
+  "description": "The Gourmette Bracelet is a classic and sophisticated piece that exudes timeless elegance. Known for its interlocking chain design, the bracelet is made up of strong, uniform links that create a seamless, continuous loop. Crafted from high-quality materials such as sterling silver, gold, or rose gold, the Gourmette Bracelet offers both durability and a refined aesthetic. Its versatile design makes it suitable for both men and women, and it can be worn as a standalone accessory or paired with other pieces for a stacked look. Ideal for daily wear or special occasions, this bracelet is a perfect choice for those who appreciate simple, yet luxurious jewelry.",
+  "price": 4000,
+  "sectionName": "Bracelets",
+  "material": "Sterling Silver, Gold, Rose Gold",
+  "availability": "In Stock",
+  "weight": "45g",
+  "dimensions": "18x18x0.5 cm",
+  "colors": ["Silver", "Gold", "Rose Gold"],
+  "Images":["https:\/\/ouchi.tn\/6154-medium_default\/gourmette.jpg","https:\/\/ouchi.tn\/6154-large_default\/gourmette.jpg"],
+  "commentaire": [
+    {
+      "author": "Lucas",
+      "text": "The Gourmette Bracelet is simple yet elegant. I love how it complements both casual and formal outfits. The quality of the metal is superb.",
+      "rating": 5
+    },
+    {
+      "author": "Emma",
+      "text": "I’ve been looking for a sleek chain bracelet like this for a while! It’s comfortable, durable, and goes with everything. Highly recommend!",
+      "rating": 5
+    }
+  ]
+},
+{
+    "id": 6155,
+    "reference": "REF036",
+    "name": "Pearl Bracelet",
+    "description": "The Pearl Bracelet is a refined and elegant piece that captures the timeless beauty of pearls. Known for their luminous sheen and natural elegance, the pearls are carefully strung together to create a sophisticated bracelet that is perfect for any occasion. Made with high-quality freshwater or cultured pearls, the bracelet can feature single pearls or a combination of varying sizes for a more dynamic look. The Pearl Bracelet is often crafted with a fine metal clasp, such as sterling silver, gold, or rose gold, ensuring both durability and luxury. Ideal for weddings, special events, or daily wear, this bracelet brings a touch of classic sophistication to any outfit.",
+    "price": 5500,
+    "sectionName": "Bracelets",
+    "material": "Freshwater Pearls, Sterling Silver, Gold, Rose Gold",
+    "availability": "In Stock",
+    "weight": "30g",
+    "dimensions": "18x18x0.6 cm",
+    "colors": ["White", "Cream", "Pink", "Black"],
+    "Images":["https:\/\/ouchi.tn\/6155-medium_default\/bracelet-perle.jpg","https:\/\/ouchi.tn\/6155-large_default\/bracelet-perle.jpg"],
+    "commentaire": [
+      {
+        "author": "Charlotte",
+        "text": "This Pearl Bracelet is simply stunning. The pearls are of excellent quality, and it has such a timeless charm. I wear it for both formal and casual occasions.",
+        "rating": 5
+      },
+      {
+        "author": "Sophia",
+        "text": "I absolutely love this bracelet! It’s delicate, yet makes a big statement. The pearls are smooth and shiny, and it’s a beautiful addition to my jewelry collection.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 6159,
+    "reference": "REF037",
+    "name": "Gourmette Bracelet",
+    "description": "The Gourmette Bracelet is a sleek, stylish accessory that combines strength and elegance in its design. Featuring interlocking chain links, this bracelet has a timeless, masculine aesthetic with a sturdy and polished finish. Made from high-quality materials such as sterling silver, gold, or stainless steel, the Gourmette Bracelet offers durability while maintaining a sophisticated, refined look. Its versatile design makes it suitable for both casual and formal occasions, and it can be worn on its own or paired with other pieces for a more layered, trendy style. Perfect for those who appreciate bold yet refined jewelry.",
+    "price": 4500,
+    "sectionName": "Bracelets",
+    "material": "Sterling Silver, Gold, Stainless Steel",
+    "availability": "In Stock",
+    "weight": "60g",
+    "dimensions": "20x20x0.7 cm",
+    "colors": ["Silver", "Gold", "Stainless Steel"],
+    "Images": ["https:\/\/ouchi.tn\/6159-medium_default\/gourmette.jpg","https:\/\/ouchi.tn\/6159-large_default\/gourmette.jpg"],
+    "commentaire": [
+      {
+        "author": "James",
+        "text": "I love the simplicity and strength of this bracelet. It has a great weight to it and looks amazing on my wrist. It’s perfect for everyday wear.",
+        "rating": 5
+      },
+      {
+        "author": "Alexander",
+        "text": "This Gourmette bracelet is exactly what I was looking for—strong, stylish, and versatile. I wear it all the time, and it goes with anything.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 6140,
+    "reference": "REF038",
+    "name": "Flower Bracelet",
+    "description": "The Flower Bracelet is a delicate and feminine accessory that brings a touch of nature to your jewelry collection. Designed with intricately detailed flower charms, this bracelet combines elegance and playfulness. Each flower is beautifully crafted from high-quality materials such as sterling silver, gold, or rose gold, and may be adorned with gemstones or enamel for added color and vibrancy. The bracelet is perfect for adding a soft, floral touch to both casual and formal outfits, making it ideal for spring and summer occasions. Whether worn alone or stacked with other bracelets, the Flower Bracelet is a timeless piece that adds charm and grace to any look.",
+    "price": 3200,
+    "sectionName": "Bracelets",
+    "material": "Sterling Silver, Gold, Rose Gold, Gemstones, Enamel",
+    "availability": "In Stock",
+    "weight": "25g",
+    "dimensions": "18x18x0.6 cm",
+    "colors": ["Silver", "Gold", "Rose Gold", "Multi-color"],
+    "Images": ["https:\/\/ouchi.tn\/6140-medium_default\/bracelet-.jpg","https:\/\/ouchi.tn\/6140-large_default\/bracelet-.jpg"],
+    "commentaire": [
+      {
+        "author": "Isabelle",
+        "text": "This bracelet is absolutely beautiful! The flowers are so delicate and the gemstones add a lovely touch of color. It’s the perfect accessory for any occasion.",
+        "rating": 5
+      },
+      {
+        "author": "Sophia",
+        "text": "I love the feminine and elegant design of this bracelet. The flowers are finely detailed and the bracelet feels comfortable on my wrist. A great addition to my collection.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 7674,
+    "reference": "REF039",
+    "name": "Riviere Bracelet",
+    "description": "The Riviere Bracelet is a sophisticated and luxurious piece, perfect for adding timeless elegance to any ensemble. Featuring a continuous line of high-quality gemstones or diamonds, this bracelet is designed to showcase the brilliance and sparkle of each stone. Traditionally crafted with alternating round or oval-cut stones, the Riviere Bracelet creates a dazzling effect as it catches the light from every angle. Whether set in platinum, white gold, yellow gold, or rose gold, the bracelet's simple yet stunning design makes it suitable for both formal occasions and everyday luxury. Ideal for weddings, anniversaries, or special celebrations, the Riviere Bracelet is a symbol of everlasting beauty and refined taste.",
+    "price": 1500,
+    "sectionName": "Bracelets",
+    "material": "Diamonds, Platinum, White Gold, Yellow Gold, Rose Gold",
+    "availability": "In Stock",
+    "weight": "45g",
+    "dimensions": "18x18x0.8 cm",
+    "colors": ["White", "Gold", "Rose Gold"],
+    "Images":["https:\/\/ouchi.tn\/7674-medium_default\/bracelet-de-pierres.jpg","https:\/\/ouchi.tn\/7674-large_default\/bracelet-de-pierres.jpg"],
+    "commentaire": [
+      {
+        "author": "Olivia",
+        "text": "This bracelet is absolutely stunning! The diamonds sparkle beautifully, and the design is classic and elegant. It’s a perfect addition to any special occasion.",
+        "rating": 5
+      },
+      {
+        "author": "Lily",
+        "text": "I couldn’t be happier with this purchase. The Riviere Bracelet is breathtaking, and the craftsmanship is top-notch. It’s a true investment piece.",
+        "rating": 5
+      }
+    ]
+  },
+
+  {
+    "id": 6780,
+    "reference": "REF040",
+    "name": "Key Bracelet",
+    "description": "The Key Bracelet is a chic and symbolic accessory that blends modern design with a touch of mystery. Featuring a key charm, this bracelet represents unlocking new opportunities, personal growth, or the metaphorical key to one's heart. Crafted from high-quality metals such as sterling silver, gold, or rose gold, the key is often detailed with intricate engravings or small gemstones for added elegance. The bracelet itself is adjustable, ensuring a perfect fit for most wrist sizes. Ideal for everyday wear, the Key Bracelet can be worn alone for a simple, elegant look or layered with other bracelets for a more personalized style. It makes for a thoughtful gift or a meaningful addition to your own jewelry collection.",
+    "price": 3500,
+    "sectionName": "Bracelets",
+    "material": "Sterling Silver, Gold, Rose Gold, Gemstones",
+    "availability": "In Stock",
+    "weight": "20g",
+    "dimensions": "18x18x0.5 cm",
+    "colors": ["Silver", "Gold", "Rose Gold"],
+    "Images": ["https:\/\/ouchi.tn\/6780-medium_default\/bracelet-cl\u00e9.jpg","https:\/\/ouchi.tn\/6780-large_default\/bracelet-cl\u00e9.jpg"],
+    "commentaire": [
+      {
+        "author": "Charlotte",
+        "text": "I love the symbolism behind this bracelet. The key charm is delicate yet bold, and the quality of the metal is exceptional. It’s a meaningful addition to my collection.",
+        "rating": 5
+      },
+      {
+        "author": "Mia",
+        "text": "This is such a beautiful bracelet! I wear it every day, and it has a simple yet elegant design. It also makes a great gift for someone special.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 6796,
+    "reference": "REF041",
+    "name": "Butterfly Bracelet",
+    "description": "The Butterfly Bracelet is a delicate and graceful piece that symbolizes transformation, freedom, and beauty. Featuring a finely detailed butterfly charm, this bracelet captures the lightness and elegance of the fluttering insect. Made from high-quality materials such as sterling silver, gold, or rose gold, the butterfly is often accented with tiny gemstones or enamel, adding a pop of color and a touch of sparkle. The bracelet itself is adjustable for a comfortable fit, making it perfect for daily wear. Whether worn as a standalone statement piece or stacked with other bracelets, the Butterfly Bracelet adds a whimsical and feminine touch to any outfit.",
+    "price": 2800,
+    "sectionName": "Bracelets",
+    "material": "Sterling Silver, Gold, Rose Gold, Gemstones, Enamel",
+    "availability": "In Stock",
+    "weight": "18g",
+    "dimensions": "18x18x0.4 cm",
+    "colors": ["Silver", "Gold", "Rose Gold", "Multi-color"],
+    "Images":["https:\/\/ouchi.tn\/6796-medium_default\/bracelet-papillon.jpg","https:\/\/ouchi.tn\/6796-large_default\/bracelet-papillon.jpg"],
+    "commentaire": [
+      {
+        "author": "Amélie",
+        "text": "This bracelet is absolutely beautiful! The butterfly charm is so delicate, and the design is so elegant. It’s the perfect accessory for a soft, feminine look.",
+        "rating": 5
+      },
+      {
+        "author": "Isabelle",
+        "text": "I love how the butterfly symbolizes change and freedom. The bracelet is light and comfortable to wear, and it adds a lovely touch to my wrist.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 6843,
+    "reference": "REF042",
+    "name": "Pearl Bracelet",
+    "description": "The Pearl Bracelet is a timeless and elegant piece that radiates sophistication and grace. Crafted with high-quality freshwater or cultured pearls, this bracelet features a string of perfectly round, lustrous pearls that shine with a soft, iridescent glow. The pearls are carefully selected for their uniformity and natural beauty, and the bracelet is often finished with a delicate clasp made from sterling silver, gold, or rose gold. Perfect for weddings, anniversaries, or everyday wear, the Pearl Bracelet adds a refined and classic touch to any outfit. Whether worn alone for a minimalist look or layered with other bracelets for a more dramatic effect, this piece is a must-have for lovers of elegant jewelry.",
+    "price": 4500,
+    "sectionName": "Bracelets",
+    "material": "Freshwater Pearls, Sterling Silver, Gold, Rose Gold",
+    "availability": "In Stock",
+    "weight": "30g",
+    "dimensions": "18x18x0.7 cm",
+    "colors": ["White", "Cream", "Pink", "Black"],
+    "Images":["https:\/\/ouchi.tn\/6843-medium_default\/bracelet-perles.jpg","https:\/\/ouchi.tn\/6843-large_default\/bracelet-perles.jpg"],
+    "commentaire": [
+      {
+        "author": "Emily",
+        "text": "This Pearl Bracelet is a beautiful, timeless piece. The pearls are of excellent quality and the design is so elegant. It’s perfect for both formal and casual occasions.",
+        "rating": 5
+      },
+      {
+        "author": "Olivia",
+        "text": "I’ve been wearing this bracelet every day since I bought it! It’s delicate, classy, and the pearls have such a beautiful shine. I absolutely love it.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 6908,
+    "reference": "REF043",
+    "name": "Pandora Bracelet",
+    "description": "The Pandora Bracelet is a charming and customizable piece that offers a unique way to express your personal style. Made from high-quality sterling silver, gold, or rose gold, this bracelet features a smooth, polished finish that provides the perfect foundation for your choice of charms. Whether you prefer to add a few meaningful charms or create an entire collection, the Pandora Bracelet allows you to celebrate your individuality. Its flexible design and secure clasp make it easy to wear and adjust for a comfortable fit. Perfect for any occasion, the Pandora Bracelet is ideal for gifting or adding to your own jewelry collection, offering endless possibilities for customization and creativity.",
+    "price": 4200,
+    "sectionName": "Bracelets",
+    "material": "Sterling Silver, Gold, Rose Gold",
+    "availability": "In Stock",
+    "weight": "25g",
+    "dimensions": "18x18x0.8 cm",
+    "colors": ["Silver", "Gold", "Rose Gold"],
+    "Images":[ "https:\/\/ouchi.tn\/6908-medium_default\/bracelet-pandora.jpg","https:\/\/ouchi.tn\/6908-large_default\/bracelet-pandora.jpg"],
+    "commentaire": [
+      {
+        "author": "Clara",
+        "text": "I love how customizable this bracelet is! I’ve been adding charms to it for months, and it’s a wonderful way to keep meaningful memories close to me.",
+        "rating": 5
+      },
+      {
+        "author": "Sophie",
+        "text": "The Pandora Bracelet is so versatile and stylish. It’s great for everyday wear, and I love the option to personalize it with different charms.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 7318,
+    "reference": "REF044",
+    "name": "Hand Bracelet",
+    "description": "The Hand Bracelet is a striking and elegant piece that wraps around your wrist and extends across the back of your hand, creating a unique and captivating design. This style of bracelet often features a delicate chain or metalwork that connects the wrist to one or more finger rings, offering a graceful and fluid look. Made from high-quality materials such as sterling silver, gold, or rose gold, the Hand Bracelet may also include gemstones or embellishments to enhance its visual appeal. This piece is perfect for adding a bohemian or elegant touch to any outfit, making it ideal for evening events, weddings, or special occasions. The Hand Bracelet brings a modern twist to traditional jewelry, offering both comfort and style with its adjustable fit.",
+    "price": 5500,
+    "sectionName": "Bracelets",
+    "material": "Sterling Silver, Gold, Rose Gold, Gemstones",
+    "availability": "In Stock",
+    "weight": "40g",
+    "dimensions": "18x18x2 cm",
+    "colors": ["Silver", "Gold", "Rose Gold"],
+    "Images": ["https:\/\/ouchi.tn\/7318-medium_default\/bracelet-\u00e0-main.jpg","https:\/\/ouchi.tn\/7318-large_default\/bracelet-\u00e0-main.jpg"],
+    "commentaire": [
+      {
+        "author": "Amira",
+        "text": "This Hand Bracelet is absolutely gorgeous! I love how it wraps around my hand so delicately. It adds a unique and sophisticated touch to any outfit.",
+        "rating": 5
+      },
+      {
+        "author": "Eloise",
+        "text": "I’ve received so many compliments on this bracelet! The design is so elegant, and it’s the perfect balance of modern and timeless. I wear it for special occasions and love it!",
+        "rating": 5
+      }
+    ]
+  }
+  
+  
+  
+
+
+]
