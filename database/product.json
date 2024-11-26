@@ -1,4 +1,11 @@
  {
+    "admin":[{
+        "name":"mohsen",
+        "email":"mohsen11@gmail.com",
+        "password":"aa22"
+    }
+        
+    ],
     "products": [
         {
             "id": 6012,

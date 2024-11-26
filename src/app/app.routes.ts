@@ -12,7 +12,9 @@ import { PageLoginComponent } from './page-login/page-login.component';
 import { BraceletComponent } from './Product/bracelet/bracelet.component';
 import { BraceletSelectedComponent } from './Product/bracelet-selected/bracelet-selected.component';
 import { loginGuard } from './login.guard';
-import { AdminComponent } from './admin/admin.component';
+import { PageAdminComponent } from './admin/page-admin/page-admin.component';
+import { ProductAdminComponent } from './admin/product-admin/product-admin.component';
+import { AddProductComponent } from './admin/add-product/add-product.component';
 
 export const routes: Routes = [
     {path:'home' , title:' Home', component:AcceuilComponent },
@@ -25,7 +27,15 @@ export const routes: Routes = [
     {path:'about' , title:'AboutUs', component:AboutusComponent},
     {path:'panier' , title:' Panier', component:PanierComponent},
     {path:'search' , title:' search', component:SearchComponent},
-    {path:'admin' , title:' ADMIN', component:AdminComponent, canActivate: [loginGuard]},
+    {path:'admin' , title:' ADMIN', component:PageAdminComponent, canActivate: [loginGuard],
+        children:[
+            // {path:'dashboard' , title:'DashboardAdmin', component:},
+            {path:'product' , title:'Produit', component:ProductAdminComponent},
+            {path:'addProduct' , title:'ProduitAjout', component:AddProductComponent},
+
+        ]
+    },
+
     {path:'login' , title:' login', component:PageLoginComponent},
     {path:'', redirectTo:'home',pathMatch:'full'},
     {path:'**' ,title:" Error" , component:ErreurComponent}
