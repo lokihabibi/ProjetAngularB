@@ -1,6 +1,7 @@
 import { Component, inject, OnInit } from '@angular/core';
-import { RouterLink , RouterOutlet} from '@angular/router';
+import { Route, Router, RouterLink , RouterOutlet} from '@angular/router';
 import { AdminServiceService } from '../../Service/admin-service.service';
+import { LoginService } from '../../login.service';
 
 @Component({
   selector: 'app-header-admin',
@@ -22,5 +23,8 @@ export class HeaderAdminComponent implements OnInit{
     ))
 
   }
+
+
+
 
 }

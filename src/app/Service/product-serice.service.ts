@@ -50,13 +50,7 @@ export class ProductSericeService {
   public getProductById(id: number): Observable<Product> {
     return this.http.get<Product>(`api/products/${id}`);
   }
-  
-  
 
-
-  public editProduit(id:number,data:any):Observable<Product>
-  {return this.http.patch<Product>(API_URL+"/"+id,data)}
-  
 
 
   public deleteProduit(id:number)

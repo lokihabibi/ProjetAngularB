@@ -19,7 +19,9 @@ export class LoginService {
   
   }
 
-  logout(){
-    localStorage.setItem('etat de connexion','disconnected')
-  }
+  // logout():Observable<void>{
+  //   localStorage.setItem('etat de connexion','disconnected')
+  //   localStorage.removeItem('CurrentAdminEmail'); 
+  //   return of();
+  // }
 }

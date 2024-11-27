@@ -16,15 +16,6 @@ export class PageLoginComponent implements OnInit {
 
   readonly loginService:LoginService=inject(LoginService)
   readonly router:Router=inject(Router)
-  
-// productForm=new FormGroup(
-// {
-//   userName:new FormControl(''),
-//   password:new FormControl('')
-// }
-// )
-
-
 
 readonly adminService:AdminServiceService=inject(AdminServiceService)
 
@@ -45,9 +36,7 @@ onSignUp(userName: string,password: string) {
     else
     alert('mdp et name incorrect')
   })
-
-
 }
-  
+
 
 }

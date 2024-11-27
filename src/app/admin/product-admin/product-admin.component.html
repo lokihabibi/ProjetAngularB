@@ -15,10 +15,10 @@
                 <p class="card-text text-muted">{{ p.price | dinar }}</p>
             </div>
 
-            <div class="card-footer text-center">
-                <button class="btn btn-warning btn-sm" (click)="editProduct(p)">Edit</button>
-                <button class="btn btn-danger btn-sm ms-2" (click)="deleteProduct(p.id)">Delete</button>
-            </div>
+                <div class="card-footer text-center">
+                    <button class="btn btn-warning btn-sm" [routerLink]="['/admin/editProduct', p.id]">Edit</button>
+                    <button class="btn btn-danger btn-sm ms-2" (click)="deleteProduct(p.id)">Delete</button>
+                </div>
         </div>
         }
     </div>

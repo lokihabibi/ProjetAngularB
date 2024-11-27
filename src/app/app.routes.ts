@@ -15,6 +15,9 @@ import { loginGuard } from './login.guard';
 import { PageAdminComponent } from './admin/page-admin/page-admin.component';
 import { ProductAdminComponent } from './admin/product-admin/product-admin.component';
 import { AddProductComponent } from './admin/add-product/add-product.component';
+import { EditProductComponent } from './admin/edit-product/edit-product.component';
+import { MotDeMasseComponent } from './admin/mot-de-passe/mot-de-masse.component';
+import { ChangePasswordComponent } from './admin/change-password/change-password.component';
 
 export const routes: Routes = [
     {path:'home' , title:' Home', component:AcceuilComponent },
@@ -27,11 +30,16 @@ export const routes: Routes = [
     {path:'about' , title:'AboutUs', component:AboutusComponent},
     {path:'panier' , title:' Panier', component:PanierComponent},
     {path:'search' , title:' search', component:SearchComponent},
+    {path:'verifEmail' , title:'verifier email', component:MotDeMasseComponent},
+    {path:'changePassword' , title:' update password', component:ChangePasswordComponent},
+
     {path:'admin' , title:' ADMIN', component:PageAdminComponent, canActivate: [loginGuard],
+        
         children:[
             // {path:'dashboard' , title:'DashboardAdmin', component:},
             {path:'product' , title:'Produit', component:ProductAdminComponent},
             {path:'addProduct' , title:'ProduitAjout', component:AddProductComponent},
+            { path: 'editProduct/:id', component: EditProductComponent },
 
         ]
     },

@@ -1,9 +1,10 @@
 import { Component, inject } from '@angular/core';
 import { HeaderAdminComponent } from "../header-admin/header-admin.component";
-import { RouterOutlet } from '@angular/router';
+import { Router, RouterOutlet } from '@angular/router';
 import { Product } from '../../Class/prouduct';
 import { ProductSericeService } from '../../Service/product-serice.service';
 import { AdminServiceService } from '../../Service/admin-service.service';
+import { LoginService } from '../../login.service';
 
 @Component({
   selector: 'app-page-admin',
@@ -14,11 +15,20 @@ import { AdminServiceService } from '../../Service/admin-service.service';
 })
 export class PageAdminComponent {
   products:Product[]=[]
-
+  readonly loginService:LoginService=inject(LoginService)
+  readonly router:Router=inject(Router)
   readonly productService:ProductSericeService=inject(ProductSericeService)
 ngOnInit():void
 {
   this.productService.getProduts('').subscribe(data=>this.products=data)
 
 }
+
+
+onLogOut(){
+  
+    localStorage.setItem("state", "disconnected");
+this.router.navigate(['/login']);
+
+}  
 }
